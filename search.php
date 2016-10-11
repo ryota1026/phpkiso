@@ -10,7 +10,7 @@
     <input type="text" name="code">
     <input type="submit" value="検索">
   </form>
-  <!-- ここからPHPコードを記述する -->
+  <!-- ここからPHPコードを記述するよ！-->
 <?php
   // １．データベースに接続する
   $dsn = 'mysql:dbname=phpkiso;host=localhost';
